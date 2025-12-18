@@ -17,5 +17,5 @@ def main(agreement):
      else:
          print("You survived")
 
-
+main(True)
 # Good Luck.
